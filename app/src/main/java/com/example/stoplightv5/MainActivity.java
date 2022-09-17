@@ -31,15 +31,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-    //Variables for the different textview portions
-    ViewGroup container;
-    TextView text1;
-    TextView text2;
-    TextView text3;
-
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

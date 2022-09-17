@@ -8,58 +8,6 @@
     tools:context=".MainActivity">
 
 
-    <TextView
-        android:id="@+id/text1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Go!"
-        android:visibility="invisible"
-        android:textColor="#50FF00"
-        android:fontFamily="sans-serif-condensed-thin"
-        android:layout_marginBottom="350dp"
-        android:layout_marginTop="0dp"
-        android:textSize="65sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.147" />
-
-    <TextView
-        android:id="@+id/text2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Slow Down!"
-        android:fontFamily="sans-serif-condensed-thin"
-        android:layout_marginBottom="350dp"
-        android:layout_marginTop="0dp"
-        android:textColor="#EAFF00"
-        android:visibility="invisible"
-        android:textSize="65sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.147" />
-
-    <TextView
-        android:id="@+id/text3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Stop!!"
-        android:fontFamily="sans-serif-condensed-thin"
-        android:layout_marginBottom="350dp"
-        android:layout_marginTop="0dp"
-        android:textColor="#FF2D00 "
-        android:visibility="invisible"
-        android:textSize="65sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.147" />
-
-
     <ImageView
         android:id="@+id/view1"
         android:layout_width="300dp"
